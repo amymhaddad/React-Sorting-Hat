@@ -1,0 +1,29 @@
+.form-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.get-input {
+	width: 282px;
+	margin-top: 10px;
+}
+
+div:first-of-type {
+	margin-top: 20px;
+}
+
+.dropdown {
+	width: 116px;
+	display: flex;
+}
+
+.button {
+	text-align: center;
+}
+
+.form-header {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}

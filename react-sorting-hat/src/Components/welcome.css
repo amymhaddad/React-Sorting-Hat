@@ -1,0 +1,13 @@
+.welcome-container {
+	display: flex;
+	flex-direction: column;
+}
+
+.facts {
+	margin-top: 20px;
+}
+
+.names {
+	display: flex;
+	flex-direction: column;
+}
